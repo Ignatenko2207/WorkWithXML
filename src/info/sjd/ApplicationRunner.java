@@ -16,6 +16,9 @@ public class ApplicationRunner {
 		user.setFirstName("Alex");
 		user.setLastName("Ignatenko");
 		
+		
+		
+		
 		User user2 = new User();
 		user2.setLogin("ignatenko220782");
 		user2.setPass("2222244");
